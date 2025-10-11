@@ -1,4 +1,4 @@
-# 🛍️ Minimal Static Storefront Template ✨
+# 🛍️ Static E-Commerce Website ✨
 
 A foundational, fully **responsive static e-commerce website template** engineered with pure HTML and CSS. This project serves as a clear demonstration of core front-end proficiency, built for **rapid prototyping** and efficient performance.
 
