@@ -8,7 +8,7 @@ A foundational, fully **responsive static e-commerce website template** engineer
 
 Click the button below to interact with the deployed version and see the responsiveness in action:
 
-[![Live Demo](https://img.shields.io/badge/VIEW_LIVE-DEMO-28A745?style=for-the-badge&logo=vercel)](https://ecomsweb.ccbp.tech/)
+[![Live Demo](https://img.shields.io/badge/VIEW_LIVE-DEMO-28A745?style=for-the-badge&logo=vercel)](git)
 <br>
 
 ---
@@ -28,9 +28,9 @@ This project intentionally uses a minimal stack to isolate and emphasize fundame
 ---
 
 ## 📸 Screenshots of the Website 
-[Screenshot1](./E-comscreenshots/Screenshot1.png)
-[Screenshot2](./E-comscreenshots/Screenshot2.png)
-[Screenshot3](./E-comscreenshots/Screenshot3.png)
+![Screenshot1](./E-comscreenshots/Screenshot1.png)
+![Screenshot2](./E-comscreenshots/Screenshot2.png)
+![Screenshot3](./E-comscreenshots/Screenshot3.png)
 
 
 ---
