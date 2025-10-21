@@ -43,16 +43,18 @@ This project intentionally uses a minimal stack to isolate and emphasize fundame
 * **📐 Minimalist Stack:** No dependencies—simply open `index.html` in any browser.
 
 ---
-
-## E-COMMERCEWEBSITE/
--├── E-comscreenshots/
-    -├── desktop.ini
--│   ├── Screenshot1.png
--│   ├── Screenshot2.png
--│   └── Screenshot3.png
--├── index.html
--├── README.md
--└── style.css
+## File Structure
+```
+E-COMMERCEWEBSITE/
+├── E-comscreenshots/
+│ ├── desktop.ini
+│ ├── Screenshot1.png
+│ ├── Screenshot2.png
+│ └── Screenshot3.png
+├── index.html
+├── README.md
+└── style.css
+```
 
 ---
 
