@@ -1,6 +1,6 @@
 # 🛍️ Static E-Commerce Website ✨
 
-A foundational, fully **responsive static e-commerce website template** engineered with pure HTML and CSS. This project serves as a clear demonstration of core front-end proficiency, built for **rapid prototyping** and efficient performance.
+A foundational, fully **responsive static e-commerce website template** engineered with HTML, CSS and Bootstrap5 . This project serves as a clear demonstration of core front-end proficiency, built for **rapid prototyping** and efficient performance.
 
 ---
 
@@ -39,7 +39,7 @@ This project intentionally uses a minimal stack to isolate and emphasize fundame
 * **✔️ Single-Page Layout:** A classic storefront structure including a header, a product grid, and a footer.
 * **⚡ High Performance:** Static deployment results in maximum speed and reliability.
 * **🎨 Clean Styling:** Minimal, well-commented CSS for easy readability and customization.
-* **📐 Minimalist Stack:** No dependencies—simply open `index.html` in any browser.
+* **📐 Minimalist Stack:** Open `index.html` in any browser.
 
 ---
 ## File Structure
