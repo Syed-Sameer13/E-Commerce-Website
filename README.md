@@ -27,6 +27,14 @@ This project intentionally uses a minimal stack to isolate and emphasize fundame
 
 ---
 
+## 📸 Screenshots of the Website 
+[Screenshot1](./E-comscreenshots/Screenshot1.png)
+[Screenshot2](./E-comscreenshots/Screenshot2.png)
+[Screenshot3](./E-comscreenshots/Screenshot3.png)
+
+
+---
+
 ## 💡 Features and Architecture
 
 * **✔️ Single-Page Layout:** A classic storefront structure including a header, a product grid, and a footer.
