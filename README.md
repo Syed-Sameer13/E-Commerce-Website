@@ -36,12 +36,15 @@ This project intentionally uses a minimal stack to isolate and emphasize fundame
 
 ---
 
-## 📁 Project Files
-
-| File | Role & Purpose |
-| :--- | :--- |
-| `index.html` | The central storefront document containing all product listing and structural elements. |
-| `style.css` | All layout, typography, and styling for the components and responsiveness. |
+## E-COMMERCEWEBSITE/
+├── E-comscreenshots/
+│   ├── desktop.ini
+│   ├── Screenshot1.png
+│   ├── Screenshot2.png
+│   └── Screenshot3.png
+├── index.html
+├── README.md
+└── style.css
 
 ---
 
