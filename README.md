@@ -45,14 +45,14 @@ This project intentionally uses a minimal stack to isolate and emphasize fundame
 ---
 
 ## E-COMMERCEWEBSITE/
-├── E-comscreenshots/
-│   ├── desktop.ini
-│   ├── Screenshot1.png
-│   ├── Screenshot2.png
-│   └── Screenshot3.png
-├── index.html
-├── README.md
-└── style.css
+-├── E-comscreenshots/
+-    ├── desktop.ini
+-│   ├── Screenshot1.png
+-│   ├── Screenshot2.png
+-│   └── Screenshot3.png
+-├── index.html
+-├── README.md
+-└── style.css
 
 ---
 
