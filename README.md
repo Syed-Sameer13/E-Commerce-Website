@@ -20,9 +20,8 @@ This project intentionally uses a minimal stack to isolate and emphasize fundame
 | Skill Focus | Implementation Details |
 | :--- | :--- |
 | **HTML5** | Used modern tags to ensure **accessibility** and clear content organization. |
-| **Responsive Design** | Achieved a seamless, mobile-first layout using **Flex-Box** to adjust styles for mobile, tablet, and desktop viewports. |
-| **CSS Grid Mastery** | Utilized **CSS Grid** for the product listing section, creating a robust, flexible, and adaptive card layout. |
-| **Pure CSS Architecture** | Ensured **zero dependencies** (no frameworks or build tools) to demonstrate proficiency in writing clean, vanilla CSS. |
+| **Responsive Design** | Achieved a seamless, mobile-first layout using **Bootstrap5 Flex-Box** to adjust styles for mobile, tablet, and desktop viewports. |
+| **CSS Grid Mastery** | Utilized **Bootstrap Grid** for the product listing section, creating a robust, flexible, and adaptive card layout. |
 | **Performance Optimization** | The static nature guarantees extremely **fast load times** and a minimal resource footprint. |
 
 ---
